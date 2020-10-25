@@ -1,5 +1,7 @@
 github.com/diamondburned/listener v0.0.0-20201025203916-91de20b774af h1:MKC+T7dSBhk+xNFiHn1CQ8vOV/OqgQFfnkS2kFtQeFQ=
 github.com/diamondburned/listener v0.0.0-20201025203916-91de20b774af/go.mod h1:p3edGGNNb3kpayx5Klx2BSptqMmmEElX6BobXnkOZvU=
+github.com/diamondburned/listener v0.0.0-20201025235325-c458deda1495 h1:GeSRg9dpv5iVVShljyfhG9SzHj2WpuYJ9+XsP+GPAmQ=
+github.com/diamondburned/listener v0.0.0-20201025235325-c458deda1495/go.mod h1:p3edGGNNb3kpayx5Klx2BSptqMmmEElX6BobXnkOZvU=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
